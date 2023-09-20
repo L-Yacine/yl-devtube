@@ -44,6 +44,7 @@ const Feed = () => {
           variant="h4"
           fontWeight="bold"
           mb={2}
+          ml={8}
           sx={{ color: "white" }}
         >
           {selectedCategory}
